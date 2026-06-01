@@ -15,9 +15,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepthathipamula&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sandeepthathipamula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepthathipamula&layout=compact)
+
 ## 🚀 Technical Skills
 
 ### Programming Languages

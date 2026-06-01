@@ -155,10 +155,12 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
 * Multi-cloud migration support
 * Real-time security monitoring
 * Advanced encryption mechanisms
-* 
-## 📈 Contribution Overview
+  
+## 🔥 Development Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepthathipamula)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandeepthathipamula&theme=github-dark-blue" />
+</p>
 
 ## 🌐 Connect With Me
 

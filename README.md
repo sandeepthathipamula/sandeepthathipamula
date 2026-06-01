@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="Sandeep Banner" width="100%">
-</p>
+</p> -->
 # Hi 👋, I'm Sandeep Thatipamula
 
 
@@ -80,13 +80,17 @@ Developed a web-based security system designed to enhance the safety of mobile p
 
 Captured images are not stored permanently. Access is provided only through a temporary secure link, and both the image and link automatically expire after a limited period to protect user privacy.
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
-* MongoDB
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
 
 ### Future Enhancements
 
@@ -113,13 +117,16 @@ Developed a web-based security system designed to enhance the safety of mobile p
 
 Captured images are not stored permanently. Access is provided only through a temporary secure link, and both the image and link automatically expire after a limited period to protect user privacy.
 
-### Tech Stack
+### 🛠️ Tech Stack
 
-* HTML5
-* CSS3
-* JavaScript
-* Node.js
-* MongoDB
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com)
+
+[![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_computing)
+
+[![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://en.wikipedia.org/wiki/Database)
+
+[![Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge\&logo=securityscorecard\&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
+
 
 ### Future Enhancements
 

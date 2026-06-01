@@ -18,7 +18,8 @@ T.Sandeep
     <img src="github.jpg" alt="GitHub" height="60">
   </a>
 </p>
-### AIML Undergraduate | Full Stack Developer
+
+ AIML Undergraduate | Full Stack Developer
 
 🎓 B.Tech AIML (4th Year)
 

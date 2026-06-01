@@ -119,13 +119,15 @@ Captured images are not stored permanently. Access is provided only through a te
 
 ### 🛠️ Tech Stack
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-[![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)](https://en.wikipedia.org/wiki/Cloud_computing)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-[![Database](https://img.shields.io/badge/Database-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)](https://en.wikipedia.org/wiki/Database)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-[![Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge\&logo=securityscorecard\&logoColor=white)](https://en.wikipedia.org/wiki/Computer_security)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
 
 
 ### Future Enhancements
@@ -167,11 +169,17 @@ Developed a cloud security system focused on secure data migration and verifiabl
 
 ### Tech Stack
 
-* Java
-* J2EE
-* Cloud Computing Concepts
-* Counting Bloom Filters
-* Database Management
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![Counting Bloom Filter](https://img.shields.io/badge/Counting_Bloom_Filter-6A1B9A?style=for-the-badge)
+
+![Database Management](https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### System Architecture
 

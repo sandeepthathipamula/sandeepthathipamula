@@ -14,8 +14,7 @@
 💻 Passionate about software development, web technologies, secure systems, and building real-world applications.
 
 ## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sandeepthathipamula)
+![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)
 
 
 ## 🚀 Technical Skills

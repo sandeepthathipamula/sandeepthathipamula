@@ -154,13 +154,11 @@ Developed a cloud security system focused on secure data migration and verifiabl
 </p>
 
 <p align="center">
-  <img src="paymentpage.png" width="45%" alt="Payment Page">
+  <img src="verifictaionpage.jpeg" width="45%" alt="Verification Page">
   <img src="paymentpage1.jpeg" width="45%" alt="Payment Details">
 </p>
 
-<p align="center">
-  <img src="verifictaionpage.jpeg" width="45%" alt="Verification Page">
-</p>
+
 
 
 ### 🛠️ Tech Stack

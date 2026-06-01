@@ -146,7 +146,22 @@ Developed a cloud security system focused on secure data migration and verifiabl
 * Enable transparent verification for cloud users
 * Protect outsourced cloud data
 
-### Tech Stack
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="page1.png" width="45%" alt="Home Page">
+  <img src="Loginpage.jpeg" width="45%" alt="Login Page">
+</p>
+
+<p align="center">
+  <img src="paymentpage.png" width="45%" alt="Payment Page">
+  <img src="paymentpage1.jpeg" width="45%" alt="Payment Details">
+</p>
+
+<p align="center">
+  <img src="verifictaionpage.jpeg" width="45%" alt="Verification Page">
+</p>
+
 
 ### 🛠️ Tech Stack
 

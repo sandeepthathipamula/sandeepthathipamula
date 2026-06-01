@@ -62,31 +62,121 @@
 
 ## 🔥 Featured Projects
 
-### Secure Payment Verification System
+## Secure Payment Verification System
 
-A payment security solution that introduces an additional verification layer for high-value transactions.
+**Duration:** Dec 2025 – Jan 2026
 
-**Architecture**
+Developed a web-based security system designed to enhance the safety of mobile payment transactions by introducing an additional verification layer for high-value payments.
 
-User → Camera → Face Detection → Node.js Backend → Verification → Payment Approval
+### Key Features
 
-**Planned Enhancements**
+* User-defined transaction limit for payment control
+* Additional identity verification for transactions exceeding the predefined limit
+* Automatic photo capture when an unauthorized payment attempt is detected
+* Secure notification delivery through a temporary WhatsApp link
+* Privacy-focused design with temporary access to captured images
 
-* Face Verification
-* Fraud Detection
+### Privacy & Security
+
+Captured images are not stored permanently. Access is provided only through a temporary secure link, and both the image and link automatically expire after a limited period to protect user privacy.
+
+### Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* MongoDB
+
+### Future Enhancements
+
+* Face Recognition
+* Fraud Detection System
 * Mobile Application Integration
+* Multi-Factor Authentication
 
-### Secure Cloud Data Transfer & Verifiable Deletion
+## Secure Payment Verification System
 
-Research-oriented project focused on secure cloud data migration, data integrity verification, and verifiable deletion in cloud environments.
+**Duration:** Dec 2025 – Jan 2026
 
-**Key Concepts**
+Developed a web-based security system designed to enhance the safety of mobile payment transactions by introducing an additional verification layer for high-value payments.
 
-* Cloud Security
-* Data Migration
-* Data Integrity Verification
-* Verifiable Data Deletion
+### Key Features
+
+* User-defined transaction limit for payment control
+* Additional identity verification for transactions exceeding the predefined limit
+* Automatic photo capture when an unauthorized payment attempt is detected
+* Secure notification delivery through a temporary WhatsApp link
+* Privacy-focused design with temporary access to captured images
+
+### Privacy & Security
+
+Captured images are not stored permanently. Access is provided only through a temporary secure link, and both the image and link automatically expire after a limited period to protect user privacy.
+
+### Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* MongoDB
+
+### Future Enhancements
+
+* Face Recognition
+* Fraud Detection System
+* Mobile Application Integration
+* Multi-Factor Authentication
+
+## Project Architecture
+
+User → Payment Request → Limit Check → Identity Verification → Payment Approval
+
+Unauthorized Attempt → Photo Capture → Temporary Secure Link → WhatsApp Notification
+
+
+## Secure Data Transfer and Verifiable Deletion in Cloud Computing
+
+**Duration:** Academic Project
+
+Developed a cloud security system focused on secure data migration and verifiable data deletion between cloud storage providers. The system ensures that transferred data remains intact during migration and allows users to verify that data has been permanently removed from the source cloud.
+
+### Key Features
+
+* Secure data transfer between cloud environments
+* Data integrity verification during migration
+* Publicly verifiable data deletion
+* Detection of incomplete or malicious data transfers
+* Counting Bloom Filter-based verification mechanism
+* No Trusted Third Party (TTP) dependency
+
+### Security Objectives
+
+* Prevent unauthorized data retention
+* Verify successful data migration
+* Ensure transferred data integrity
+* Enable transparent verification for cloud users
+* Protect outsourced cloud data
+
+### Tech Stack
+
+* Java
+* J2EE
+* Cloud Computing Concepts
 * Counting Bloom Filters
+* Database Management
+
+### System Architecture
+
+Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Integrity Verification → Verifiable Deletion
+
+### Future Enhancements
+
+* Blockchain-based verification
+* Multi-cloud migration support
+* Real-time security monitoring
+* Advanced encryption mechanisms
+
 
 ## 🌐 Connect With Me
 

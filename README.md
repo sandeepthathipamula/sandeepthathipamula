@@ -3,6 +3,8 @@
 </p>
 # Hi 👋, I'm Sandeep Thatipamula
 
+
+
 ![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)
 
 ### AIML Undergraduate | Full Stack Developer
@@ -13,15 +15,18 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepthathipamula&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepthathipamula&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepthathipamula&layout=compact)
 ## 🚀 Technical Skills
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
@@ -32,14 +37,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
 
 ### Databases
 
-* MongoDB
-* PostgreSQL
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Tools & Platforms

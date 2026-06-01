@@ -21,33 +21,24 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ### Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 
 ### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
@@ -83,13 +74,9 @@ Captured images are not stored permanently. Access is provided only through a te
 ### 🛠️ Tech Stack
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org)
-
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
 
 ### Future Enhancements
@@ -136,13 +123,9 @@ Developed a cloud security system focused on secure data migration and verifiabl
 ### 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
-
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 ![Counting Bloom Filter](https://img.shields.io/badge/Counting_Bloom_Filter-6A1B9A?style=for-the-badge)
-
 ![Database Management](https://img.shields.io/badge/Database_Management-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### System Architecture
@@ -156,12 +139,12 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
 * Real-time security monitoring
 * Advanced encryption mechanisms
 
-## 📊 GitHub Statistics
 
-<p align="center">
+
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandeepthathipamula&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepthathipamula&layout=compact&theme=github_dark" />
-</p>
+</p> -->
 
 ## 🌐 Connect With Me
 

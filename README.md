@@ -25,6 +25,17 @@
 
 🚀 Passionate about building scalable, secure, and real-world software solutions.
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
+    <img src="linkedin.png" alt="LinkedIn" height="60">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/sandeepthathipamula">
+    <img src="github.png" alt="GitHub" height="60">
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)
@@ -159,21 +170,7 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepthathipamula&layout=compact&theme=github_dark" />
 </p> -->
 
-## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/sandeepthathipamula">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="banner.png" alt="Sandeep Banner" width="100%">
-</p>
 
 
 ⭐ Building practical software solutions and continuously improving development skills.

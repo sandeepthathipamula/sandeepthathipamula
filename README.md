@@ -160,8 +160,17 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
 </p> -->
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-thatipamula-297108324/)- LinkedIn: https://www.linkedin.com/in/sandeep-thatipamula-297108324?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- GitHub: https://github.com/sandeepthathipamula
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/sandeepthathipamula">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 
 ⭐ Building practical software solutions and continuously improving development skills.

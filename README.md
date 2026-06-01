@@ -156,7 +156,9 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
 * Real-time security monitoring
 * Advanced encryption mechanisms
 
+## 📈 Contribution Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepthathipamula)
 ## 🌐 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sandeep-thatipamula-297108324?utm_source=share_via&utm_content=profile&utm_medium=member_android

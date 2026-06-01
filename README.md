@@ -11,7 +11,20 @@
 
 🎓 B.Tech AIML (4th Year)
 
-💻 Passionate about software development, web technologies, secure systems, and building real-world applications.
+## 👨‍💻 About Me
+
+🎓 B.Tech AIML Undergraduate (4th Year)
+
+💻 Full Stack Developer specializing in modern web application development.
+
+⚛️ Building applications using React, Next.js, Node.js, MongoDB, PostgreSQL, and FastAPI.
+
+🔐 Experienced in developing security-focused projects, including secure payment verification systems and cloud security solutions.
+
+🗄️ Skilled in designing backend systems, REST APIs, database architectures, and full-stack web applications.
+
+🚀 Passionate about building scalable, secure, and real-world software solutions.
+
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)

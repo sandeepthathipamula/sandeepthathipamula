@@ -99,43 +99,7 @@ Captured images are not stored permanently. Access is provided only through a te
 * Mobile Application Integration
 * Multi-Factor Authentication
 
-## Secure Payment Verification System
 
-**Duration:** Dec 2025 – Jan 2026
-
-Developed a web-based security system designed to enhance the safety of mobile payment transactions by introducing an additional verification layer for high-value payments.
-
-### Key Features
-
-* User-defined transaction limit for payment control
-* Additional identity verification for transactions exceeding the predefined limit
-* Automatic photo capture when an unauthorized payment attempt is detected
-* Secure notification delivery through a temporary WhatsApp link
-* Privacy-focused design with temporary access to captured images
-
-### Privacy & Security
-
-Captured images are not stored permanently. Access is provided only through a temporary secure link, and both the image and link automatically expire after a limited period to protect user privacy.
-
-### 🛠️ Tech Stack
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org)
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
-
-
-### Future Enhancements
-
-* Face Recognition
-* Fraud Detection System
-* Mobile Application Integration
-* Multi-Factor Authentication
 
 ## Project Architecture
 

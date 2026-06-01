@@ -27,13 +27,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
-    <img src="linkedin.png" alt="LinkedIn" height="60">
+    <img src="Linkdin.jpg" alt="LinkedIn" height="60">
   </a>
 
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/sandeepthathipamula">
-    <img src="github.png" alt="GitHub" height="60">
+    <img src="github.jpg" alt="GitHub" height="60">
   </a>
 </p>
 

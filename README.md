@@ -171,6 +171,9 @@ Data Owner → Source Cloud → Secure Transfer Process → Target Cloud → Int
   </a>
 </p>
 
+<p align="center">
+  <img src="banner.png" alt="Sandeep Banner" width="100%">
+</p>
 
 
 ⭐ Building practical software solutions and continuously improving development skills.

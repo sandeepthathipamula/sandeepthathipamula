@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Sandeep Banner" width="100%">
+</p>
 # Hi 👋, I'm Sandeep Thatipamula
 
 ### AIML Undergraduate | Full Stack Developer

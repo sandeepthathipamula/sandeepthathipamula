@@ -1,15 +1,28 @@
 <!-- <p align="center">
   <img src="banner.png" alt="Sandeep Banner" width="100%">
 </p> -->
+T.Sandeep
+
 # Hi 👋, I'm Sandeep Thatipamula
-
-
 
 ![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)
 
+<p >
+  <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
+    <img src="Linkdin.jpg" alt="LinkedIn" height="60">
+  </a>
+
+
+
+  <a href="https://github.com/sandeepthathipamula">
+    <img src="github.jpg" alt="GitHub" height="60">
+  </a>
+</p>
 ### AIML Undergraduate | Full Stack Developer
 
 🎓 B.Tech AIML (4th Year)
+
+
 
 ## 👨‍💻 About Me
 
@@ -25,17 +38,7 @@
 
 🚀 Passionate about building scalable, secure, and real-world software solutions.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-thatipamula-297108324/">
-    <img src="Linkdin.jpg" alt="LinkedIn" height="60">
-  </a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/sandeepthathipamula">
-    <img src="github.jpg" alt="GitHub" height="60">
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 ![](https://komarev.com/ghpvc/?username=sandeepthathipamula&color=blue)

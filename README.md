@@ -107,6 +107,18 @@ Captured images are not stored permanently. Access is provided only through a te
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)](https://www.mongodb.com)
 
+## 📸 Project Screenshots
+
+<p align="center">
+  <img src="page1.png" width="45%" alt="Home Page">
+  <img src="Loginpage.jpeg" width="45%" alt="Login Page">
+</p>
+
+<p align="center">
+  <img src="verifictaionpage.jpeg" width="45%" alt="Verification Page">
+  <img src="paymentpage1.jpeg" width="45%" alt="Payment Details">
+</p>
+
 ### Future Enhancements
 
 * Face Recognition
@@ -146,17 +158,7 @@ Developed a cloud security system focused on secure data migration and verifiabl
 * Enable transparent verification for cloud users
 * Protect outsourced cloud data
 
-## 📸 Project Screenshots
 
-<p align="center">
-  <img src="page1.png" width="45%" alt="Home Page">
-  <img src="Loginpage.jpeg" width="45%" alt="Login Page">
-</p>
-
-<p align="center">
-  <img src="verifictaionpage.jpeg" width="45%" alt="Verification Page">
-  <img src="paymentpage1.jpeg" width="45%" alt="Payment Details">
-</p>
 
 
 
